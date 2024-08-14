@@ -12,13 +12,12 @@
 
 <br><br>
 
-- :school: I am a Student at [IITC College](https://iitc.co.il/) at [Full-Stack Development](https://iitc.co.il/fullstack-development/).
 - :technologist: I love using Software as a solution for every `Problem`.
 - :computer: I am a competitive programmer.
-- :student: I’m currently learning `Full Stack Development`.
+- :student: I’m always love to learn new things `Full Stack Development`.
 - :nerd_face: Always `learning new things`.
 - :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME]().
-- :boom: You can visit [MY WEBSITE]().
+- :boom: You can visit [[MY WEBSITE](https://sunnyportfolio.vercel.app/)]().
 <br>
 
 ## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"> </picture> Connect with me
